@@ -416,6 +416,28 @@
                             <brasil>00000000,99999999</brasil>
                         </zips>
                     </serv_10138>
+                    <serv_04510>
+                        <max>
+                            <size>30</size>
+                            <sum>50</sum>
+                            <weight>0.5</weight>
+                            <volume_weight>50</volume_weight>
+                        </max>
+                        <zips>
+                            <brasil>00000000,99999999</brasil>
+                        </zips>
+                    </serv_04510>
+					<serv_04014>
+                        <max>
+                            <size>30</size>
+                            <sum>50</sum>
+                            <weight>0.5</weight>
+                            <volume_weight>50</volume_weight>
+                        </max>
+                        <zips>
+                            <brasil>00000000,99999999</brasil>
+                        </zips>
+                    </serv_04014>
                 </validate>
 
                 <!-- CONFIG -->
